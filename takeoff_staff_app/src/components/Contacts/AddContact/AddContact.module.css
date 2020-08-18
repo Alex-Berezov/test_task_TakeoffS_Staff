@@ -1,0 +1,52 @@
+.addContact_block {
+    text-align: right;
+}
+
+.addContact_btn {
+    background: transparent;
+    color: black;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    outline: none;
+}
+.addContact_btn:hover {
+    color: red;
+}
+
+.addContact_form {
+    text-align: left;
+}
+
+.addContact_form form {
+    display: flex;
+    flex-direction: column;
+}
+
+.addContact_form form input {
+    margin-bottom: 7px;
+    outline: none;
+}
+
+.addContact_form form .addContact {
+    background: forestgreen;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 5px;
+    color: white;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 3px;
+}
+
+.addContact_form form .addContact:hover {
+    color: black;
+    border: 1px solid forestgreen;
+    padding: 4px;
+    background: transparent;
+}
+
+.form_summary_error {
+    color: red;
+}

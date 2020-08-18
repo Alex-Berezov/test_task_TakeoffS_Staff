@@ -1,0 +1,36 @@
+.contacts_list {
+    display: block;
+}
+
+.contact {
+    display: flex;
+    align-items: center;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.contact_img {
+    margin-right: 15px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.contact_info span {
+    color: grey;
+    margin-right: 7px;
+}
+
+/*.contact_name {*/
+
+/*}*/
+
+/*.contact_number {*/
+
+/*}*/
+
+/*.contact_email {*/
+
+/*}*/

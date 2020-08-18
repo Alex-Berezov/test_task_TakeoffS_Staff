@@ -1,0 +1,16 @@
+.contact_block {
+    display: flex;
+    flex-direction: column;
+    margin: 30px auto;
+    padding: 15px;
+    width: 30%;
+    background: white;
+}
+
+.search_block {
+    padding: 10px;
+}
+
+.contactsList_block {
+    padding: 10px;
+}

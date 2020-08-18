@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Darth Vader",
+      "phoneNumber": "+250966666666",
+      "email": "some@email.com",
+      "image": "./img/darth.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Princess Leia",
+      "phoneNumber": "+250966344466",
+      "email": "some2@email.com",
+      "image": "./img/leia.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Luke Skywalker",
+      "phoneNumber": "+250976654433",
+      "email": "some3@email.com",
+      "image": "./img/luke.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Chewbacca",
+      "phoneNumber": "+250456784935",
+      "email": "some4@email.com",
+      "image": "./img/chewbacca.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Han Solo",
+      "phoneNumber": "+250456784935",
+      "email": "some5@email.com",
+      "image": "./img/solo.jpg"
+    }
+  ]
+}
